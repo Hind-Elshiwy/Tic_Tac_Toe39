@@ -1,4 +1,4 @@
-**** Tic_Tac_Toe Network Game ****
+****Tic_Tac_Toe Network Game****
 	
 	The Game Was Developed By *** Open Source Students (ITI Mansoura Branch) ***
 		1- Ahmed Sha'lan
@@ -6,7 +6,7 @@
 		3- Hany Adel
 		4- Israa Abdelhamid
 
-** To run the Game Smoothly please follow the coming steps **
+**To run the Game Smoothly please follow the coming steps**
 
 	1- Create a database named "tic_tac_toe"
 		Database information
@@ -20,7 +20,7 @@
 	4- Run the client Package
 
 
-**** How does The Game Work ****
+****How does The Game Work****
 
 	**The is Divided into 2 parts : Server and Client
 
